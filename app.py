@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas
 import streamlit as st
 
 import src.answers as asw
